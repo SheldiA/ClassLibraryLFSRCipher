@@ -1,0 +1,9 @@
+C:\Users\Anna\AppData\Local\Temporary Projects\ClassLibraryLFSRCipher\bin\Debug\ClassLibraryLFSRCipher.dll
+C:\Users\Anna\AppData\Local\Temporary Projects\ClassLibraryLFSRCipher\bin\Debug\ClassLibraryLFSRCipher.pdb
+C:\Users\Anna\AppData\Local\Temporary Projects\ClassLibraryLFSRCipher\obj\Debug\ClassLibraryLFSRCipher.dll
+C:\Users\Anna\AppData\Local\Temporary Projects\ClassLibraryLFSRCipher\obj\Debug\ClassLibraryLFSRCipher.pdb
+D:\Project c#\ClassLibraryLFSRCipher\ClassLibraryLFSRCipher\bin\Debug\ClassLibraryLFSRCipher.dll
+D:\Project c#\ClassLibraryLFSRCipher\ClassLibraryLFSRCipher\bin\Debug\ClassLibraryLFSRCipher.pdb
+D:\Project c#\ClassLibraryLFSRCipher\ClassLibraryLFSRCipher\obj\Debug\ClassLibraryLFSRCipher.dll
+D:\Project c#\ClassLibraryLFSRCipher\ClassLibraryLFSRCipher\obj\Debug\ClassLibraryLFSRCipher.pdb
+D:\Project c#\ClassLibraryLFSRCipher\ClassLibraryLFSRCipher\obj\Debug\ClassLibraryLFSRCipher.csprojResolveAssemblyReference.cache
